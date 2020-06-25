@@ -1,6 +1,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/its-not-a-lie-if-you-believe-it.svg)](https://github.com/KushalBhanot)
 
-[![GitHub followers](https://img.shields.io/github/followers/KushalBhanot?label=Follow&style=social)](https://github.com/KushalBhanot?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/KushalBhanot/Automating-Codechef-Subsmissions.svg?style=social&label=Star&maxAge=2592000)](https://github.com/KushalBhanot/Automating-Codechef-Subsmissions)
+[![GitHub followers](https://img.shields.io/github/followers/KushalBhanot?label=Follow&style=social)](https://github.com/KushalBhanot?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/KushalBhanot/Automating-Codechef-Subsmissions.svg?style=social&label=Star&maxAge=2592000)](https://github.com/KushalBhanot/Automating-Codechef-Submissions)
 
 # Automating Codechef Submissions
 I was always fascinated by what developers did on the internet.
