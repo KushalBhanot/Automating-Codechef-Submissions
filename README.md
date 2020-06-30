@@ -3,6 +3,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/KushalBhanot?label=Follow&style=social)](https://github.com/KushalBhanot?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/KushalBhanot/Automating-Codechef-Subsmissions.svg?style=social&label=Star&maxAge=2592000)](https://github.com/KushalBhanot/Automating-Codechef-Submissions)
 
 # Automating Codechef Submissions
+[![HitCount](http://hits.dwyl.com/KushalBhanot/Automating-Codechef-Subsmissions.svg)](http://hits.dwyl.com/KushalBhanot/Automating-Codechef-Subsmissions)<br>
 I was always fascinated by what developers did on the internet.
 And automation is one of these things.
 So, I decided to automate Codechef Submissions, but still didn't feel very proud of it.
